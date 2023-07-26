@@ -2,6 +2,10 @@
 
 [![GitHub](https://img.shields.io/github/license/himar33/TimerTool-Unity-Utility)](https://github.com/himar33/TimerTool-Unity-Utility/blob/main/LICENSE)
 
+**Itch.io page: <https://himar33.itch.io/timer-tool>**
+
+**Forum Thread: <https://forum.unity.com/threads/simple-timer-tool-open-source.1465643/>**
+
 # ABOUT
 TimerTool is a versatile and easy-to-use timer utility for Unity, designed to streamline time-based operations and events in your projects. This tool allows developers to create, manage, and control timers with various functionalities, including real-time and game-time support, pausing, looping, and event-triggering at specific intervals.
 
