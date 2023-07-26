@@ -20,8 +20,6 @@ Link to the repository: <https://github.com/akbiggs/UnityTimer>
 ### Differentiation
 The main feature that sets this tool apart from the one I'm basing it on is the ability to add events during the timer's duration. I have added a class called TimerEvent that allows triggering events at the specified second.
 
-<img src="Images/inspector_events.png" alt="banner" />
-
 ```c#
 [System.Serializable]
 public class TimerEvent
@@ -61,7 +59,13 @@ _timer = new Timer(
     timerEvents: _timerEvents);
 ```
 
++ **Simple and intuitive inspector manager**:
+
+<img src="Images/timermanager_prefab.png" alt="banner" />
+
 + **Event Triggering**: Register events to occur at specific intervals during the timer's execution, adding dynamic interactions to your projects.
+
+<img src="Images/inspector_events.png" alt="banner" />
 
 + **Simplified Time Calculations**: Obtain elapsed time, remaining time, and ratios effortlessly with dedicated methods.
 ```c#
